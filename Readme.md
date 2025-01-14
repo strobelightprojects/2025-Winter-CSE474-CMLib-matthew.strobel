@@ -1,0 +1,1 @@
+This is a CM Library to keep track of configuration items for CSE474.
